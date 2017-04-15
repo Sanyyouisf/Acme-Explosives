@@ -1,146 +1,148 @@
 {
-    "products": [{
-        "fairy_sparklers0": {
-            "id": 0,
-            "type": 0,
-            "name": "Fairy Sparklers0",
-            "description": "Multi-colored sparklers that are safe for any age."
+    "products": [
+        {
+            "party_poppers": {
+                "id": 0,
+                "type": 0,
+                "name": "Party Poppers",
+                "description": "Get the party started!"
+            }
+        },
+        {
+            "bon-bons": {
+                "id": 1,
+                "type": 0,
+                "name": "Bon Bons",
+                "description": "AKA Christmas Crackers. A British Christmas tradition"
+            }
+        },
+        {
+            "bang-snaps": {
+                "id": 2,
+                "type": 0,
+                "name": "Bang Snaps",
+                "description": "Throw 'em, and they snap!"
+            }
+        },
+        {
+            "grounds_for_divorce": {
+                "id": 3,
+                "type": 1,
+                "name": "Grounds for Divorce",
+                "description": "Step 1: Purchase.  Step 2: Call Attorney."
+            }
+        },
+        {
+            "attitude_adjustment": {
+                "id": 4,
+                "type": 1,
+                "name": "Attitude Adjustment",
+                "description": "Celebrate the birth of your country by blowing up a small part of it."
+            }
+        },
+        {
+            "here_come_da_judge": {
+                "id": 5,
+                "type": 1,
+                "name": "Here Come Da Judge",
+                "description": "Order in the court... for fun!"
+            }
+        },
+        {
+            "yung_feng_mine": {
+                "id": 6,
+                "type": 2,
+                "name": "Yung Feng Mine",
+                "description": "3in. Red Strobing Mine"
+            }
+        },
+        {
+            "freedom_cake": {
+                "id": 7,
+                "type": 2,
+                "name": "Freedom Cake",
+                "description": "10 Shots Fan Silver Glitter Tail"
+            }
+        },
+        {
+            "lidu_fountain": {
+                "id": 8,
+                "type": 2,
+                "name": "Lidu Fountain",
+                "description": "1in Single Smokeless Silver Fountain"
+            }
+        },
+        {
+            "bleach_bomb": {
+                "id": 9,
+                "type": 3,
+                "name": "Bleach Bomb",
+                "description": "Blast away dirt, and anything else"
+            }
+        },
+        {
+            "etch_a_sketch_thermite": {
+                "id": 10,
+                "type": 3,
+                "name": "Etch-A-Sketch Thermite",
+                "description": "Hot enough to burn through dirt."
+            }
+        },
+        {
+            "styrofoam_napalm": {
+                "id": 11,
+                "type": 3,
+                "name": "Styrofoam Napalm",
+                "description": "Smells like victory."
+            }
+        },
+        {
+            "tnt": {
+                "id": 12,
+                "type": 4,
+                "name": "TNT",
+                "description": "the explosive power of TNT is still considered the standard measure of strength of bombs and other explosives."
+            }
+        },
+        {
+            "dynomite": {
+                "id": 13,
+                "type": 4,
+                "name": "Dynomite",
+                "description": "The explosive of choice of bank robbers wanting to crack open safes"
+            }
+        },
+        {
+            "c4": {
+                "id": 14,
+                "type": 4,
+                "name": "C-4",
+                "description": "One of a variety of plastic explosives"
+            }
+        },
+        {
+            "tow_2_anti_tank_missle": {
+                "id": 15,
+                "type": 5,
+                "name": "TOW-2 Anti-Tank Missile",
+                "description": "The TOW-2 is a rocket that blasts through tank armor with a 13-pound warhead."
+            }
+        },
+        {
+            "M795_artillery_shell": {
+                "id": 16,
+                "type": 5,
+                "name": "M795 Artillery Shell",
+                "description": "The U.S. military's standard 155-millimeter howitzer shell carries 20 pounds of TNT to its target."
+            }
+        },
+        {
+            "w78_thermonuclear_warhead": {
+                "id": 17,
+                "type": 5,
+                "name": "W78 Thermonuclear Warhead",
+                "description": "How about a nice game of chess instead?"
+            }
         }
-    },
-    {
-        "fairy_sparklers1": {
-            "id": 1,
-            "type": 0,
-            "name": "Fairy Sparklers1",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-    {
-        "fairy_sparklers2": {
-            "id": 2,
-            "type": 0,
-            "name": "Fairy Sparklers2",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-    {
-        "fairy_sparklers3": {
-            "id": 3,
-            "type": 1,
-            "name": "Fairy Sparklers3",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-    {
-        "fairy_sparklers4": {
-            "id": 4,
-            "type": 1,
-            "name": "Fairy Sparklers4",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-    {
-        "fairy_sparklers5": {
-            "id": 5,
-            "type": 1,
-            "name": "Fairy Sparklers5",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-    {
-        "fairy_sparklers6": {
-            "id": 6,
-            "type": 2,
-            "name": "Fairy Sparklers6",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-    {
-        "fairy_sparklers7": {
-            "id": 7,
-            "type": 2,
-            "name": "Fairy Sparklers7",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-    {
-        "fairy_sparklers8": {
-            "id": 8,
-            "type": 2,
-            "name": "Fairy Sparklers8",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-    {
-        "fairy_sparklers9": {
-            "id": 9,
-            "type": 3,
-            "name": "Fairy Sparklers9",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-    {
-        "fairy_sparklers10": {
-            "id": 10,
-            "type": 3,
-            "name": "Fairy Sparklers10",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-    {
-        "fairy_sparklers11": {
-            "id": 11,
-            "type": 3,
-            "name": "Fairy Sparklers11",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-    {
-        "fairy_sparklers12": {
-            "id": 12,
-            "type": 4,
-            "name": "Fairy Sparklers12",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-    {
-        "fairy_sparklers13": {
-            "id": 13,
-            "type": 4,
-            "name": "Fairy Sparklers13",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-    {
-        "fairy_sparklers14": {
-            "id": 14,
-            "type": 4,
-            "name": "Fairy Sparklers14",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-    {
-        "fairy_sparklers15": {
-            "id": 15,
-            "type": 5,
-            "name": "Fairy Sparklers15",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
- 	{
-        "fairy_sparklers16": {
-            "id": 16,
-            "type": 5,
-            "name": "Fairy Sparklers16",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    },
-     {
-        "fairy_sparklers17": {
-            "id": 17,
-            "type": 5,
-            "name": "Fairy Sparklers17",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    }]
+    ]
 }

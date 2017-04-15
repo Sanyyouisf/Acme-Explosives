@@ -3,38 +3,38 @@
         {
             "id": 0,
             "category": 0,
-            "name": "personal", //to be updated "personal", "wholesale", "commercial"
-            "description": "Fireworks intended for recreational use during holiday celebrations"
+            "name": "kid-safe",
+            "description": "Fire free products that are indoor safe and fun for all ages"
         },
          {
             "id": 1,
             "category": 0,
-            "name": "personal",
-            "description": "Fireworks intended for recreational use during holiday celebrations"
+            "name": "1.4G Fireworks",
+            "description": "Consumer fireworks. Intended for recreational use during holiday celebrations"
         },
          {
             "id": 2,
             "category": 0,
-            "name": "personal",
-            "description": "Fireworks intended for recreational use during holiday celebrations"
+            "name": "1.3 Fireworks",
+            "description": "Display Fireworks. Pyrotechnic license required."
         },
-         {
+        {
             "id": 3,
             "category": 1,
-            "name": "personal",
-            "description": "Fireworks intended for recreational use during holiday celebrations"
+            "name": "Household Explosives",
+            "description": "Have a blast with these common household items"
         },
-         {
+        {
             "id": 4,
             "category": 1,
-            "name": "personal",
-            "description": "Fireworks intended for recreational use during holiday celebrations"
+            "name": "Professional Explosives",
+            "description": "For the rock quarry owner"
         },
-         {
+        {
             "id": 5,
             "category": 1,
-            "name": "personal",
-            "description": "Fireworks intended for recreational use during holiday celebrations"
-        }
+            "name": "WMD",
+            "description": "For government use only"
+        }                
     ]
 }
