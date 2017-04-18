@@ -1,0 +1,26 @@
+.hidden {
+  display: none;
+ }
+
+.col-md-12,.col-md-5 {
+	background-color: #e3e3e3;
+	margin: 15px;
+	padding: 20px;
+	font-size: 2rem;
+	display: block;
+
+}
+.catagory {
+	background-color: red;
+	color: white;
+}
+
+.type {
+	background-color: #800080;
+	color: white;
+}
+
+.product {
+	background-color: 00ffff;
+	color: blue;
+}

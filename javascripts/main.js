@@ -91,6 +91,7 @@ $(document).ready(function() {
     //when clicking on the dropdown menu
     $(".dropdown-menu").on("click","li",function(event){
         event.preventDefault();
+        $(".row").removeClass("hidden");
          console.log ("(this)",$(this).text());
         for (var i = 0; i < AllData.length; i++) {
             if (AllData[i].name === $(this).text()
@@ -108,11 +109,7 @@ $(document).ready(function() {
                         console.log("type Name is  :",typeName)
                         $(".type").text( ($(".type").text())+ (AllData[j].name));
                         console.log ("loop in type ",j)
-                        // for (var i = 0; i < AllData.length; i++) {
-                        //     if(typeId === AllData[i].type){
-                        //         console.log("product name ",AllData[i].name);
-                        //     }
-                        // }
+
 
                         for (var k = 0; k < AllData.length; k++) {
                             if(typeId === AllData[k].type
@@ -130,7 +127,6 @@ $(document).ready(function() {
                 
 
 
-            // console.log("you click on the name ", AllData[i].name)
             }
         }    
     })
