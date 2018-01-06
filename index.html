@@ -1,16 +1,40 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-	<title>Acme Explosive</title>
-	<link rel="stylesheet" type="text/css" href="./lib/bower_components/bootstrap/dist/css/bootstrap.css">
-
-
+    <title>Acme Explosive</title>
+    <link rel="stylesheet" type="text/css" href="./lib/bower_components/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="main.css">
 </head>
-<body>
-	<h2> Acme Explosive </h2>
 
-	<script type="text/javascript" src="./lib/bower_components/jquery/dist/jquery.js"></script>
-	<script type="text/javascript" src="./lib/bower_components/bootstrap/dist/js/bootstrap.js"></script>
-	<script type="text/javascript" src="javascripts/main.js"></script>
+<body>
+    <h2> Acme Explosive </h2>
+    <div class="dropdown">
+        <button class="btn btn-default dropdown-toggle m-l-5" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+            choose category
+            <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+           
+        </ul>
+    </div>
+    <!-- <div id="output"></div> -->
+
+    <div class="container"> 
+        <div class="hidden row">
+            <h1> catagory </h1>
+            <div class="catagory col-md-12"> </div>
+
+            <h1>  type </h1>
+            <div class="type col-md-12"> </div>
+
+            <h1> products </h1>
+            <div class="product col-md-12"> </div>
+        </div>   
+    </div>
+    <script type="text/javascript" src="./lib/bower_components/jquery/dist/jquery.js"></script>
+    <script type="text/javascript" src="./lib/bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script type="text/javascript" src="javascripts/main.js"></script>
 </body>
+
 </html>
